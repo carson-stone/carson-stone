@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @carson-stone
-- 👀 I’m interested in web programming, startups, and mostly JavaScript
-- 🌱 I’m currently learning Vue.js @landis
+👋 Hi, I’m Carson Stone.
+- I’m interested in web programming, startups, JavaScript, and software engineering.
+- Currently learning Vue.js @landis
 - 📫 Contact me through Linkedin
 
 <!---
